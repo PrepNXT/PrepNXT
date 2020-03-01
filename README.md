@@ -1,1 +1,1 @@
-h1. Welcome to PrepNXT
+.h1 Welcome to PrepNXT
